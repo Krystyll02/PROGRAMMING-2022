@@ -1,0 +1,11 @@
+from tkinter import*
+#start 
+watch = Tk()
+watch.geometry ("300x250")
+watch.title("STOPWATCH")
+watch.config(bg="black")
+
+milliseconds=00
+seconds=00
+minutes=00
+hours=00
